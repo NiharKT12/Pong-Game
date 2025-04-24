@@ -24,6 +24,13 @@ This project was created as a fun way to explore game development and practice o
 
 ---
 
+## Game Preview
+
+![Screenshot 1](./assets/screenshot1.png)
+![Screenshot 2](./assets/screenshot2.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Language:** C++  
